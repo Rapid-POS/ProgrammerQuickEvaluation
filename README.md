@@ -1,5 +1,5 @@
 # ProgrammerQuickEvaluation
-5-10 minute evaluation of basics for the programming position at Rapid
+5-10 minute evaluation of basics for the programming position at Rapid POS.
 
 Thank you for your interest in applying to become a programmer with Rapid POS.  This quick evaluation is an easy way to show you know the basics.
 
